@@ -8,8 +8,11 @@
     "test": "jest"
   },
   "jest": {
-        "reporters": ["default", "jest-junit"]
-      },
+    "reporters": [
+      "default",
+      "jest-junit"
+    ]
+  },
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.1.0",
